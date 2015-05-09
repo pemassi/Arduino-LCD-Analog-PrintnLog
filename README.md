@@ -6,5 +6,6 @@
 <br>
 <br>
 <br>
-Blog : http://vmao.tistory.com 
+Blog : http://vmao.tistory.com
+<br>
 Made By : 프매씨(pemassi) 
